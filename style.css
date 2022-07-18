@@ -101,8 +101,8 @@ a.evitement {
 }
 
 .texture-paper::before {
-    background: url("img/agence-la-panthere.jpg");
-    /* background-size: 280px 280px; */
+    background: url("img/texture-paper.png");
+    background-size: 280px 280px;
 }
 
 .b-parallax {
