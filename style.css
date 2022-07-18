@@ -12,7 +12,6 @@ button {
     transition: all .3s ease-in-out;
     outline: none!important;
 }
-
 a:hover {
     text-decoration: none;
     cursor: pointer;
@@ -102,8 +101,8 @@ a.evitement {
 }
 
 .texture-paper::before {
-    background: url("img/texture-paper.png");
-    background-size: 280px 280px;
+    background: url("img/agence-la-panthere.jpg");
+    /* background-size: 280px 280px; */
 }
 
 .b-parallax {
@@ -786,7 +785,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #ffffff!important;
 }
 
 .btn-atomic-tangerine {
